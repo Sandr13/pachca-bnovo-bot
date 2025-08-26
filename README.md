@@ -25,9 +25,9 @@
 - attached_files.json # конфигурация вложенных файлов
 
 ## Установка и запуск
-git clone https://github.com/<username>/pachca-bnovo-bot.git
-cd pachca-bnovo-bot
-pip install -r requirements.txt
+git clone https://github.com/<username>/pachca-bnovo-bot.git  
+cd pachca-bnovo-bot  
+pip install -r requirements.txt  
 
 ## Переменные окружения
 - PACHKA_API_TOKEN — токен API Пачки
