@@ -20,9 +20,9 @@
 - Проверка подписи webhook от Пачки (HMAC-SHA256)
 
 ## Структура проекта
-├── index.py # основная логика
-├── requirements.txt # зависимости
-└── attached_files.json # конфигурация вложенных файлов
+- index.py # основная логика
+- requirements.txt # зависимости
+- attached_files.json # конфигурация вложенных файлов
 
 ## Установка и запуск
 git clone https://github.com/<username>/pachca-bnovo-bot.git
