@@ -1,0 +1,17 @@
+{
+  "floor_6": {
+    "key": "attaches/files/demo-bucket/00000000-0000-0000-0000-000000000001/6floor.png",
+    "name": "6floor.png",
+    "file_type": "image"
+  },
+  "floor_7": {
+    "key": "attaches/files/demo-bucket/00000000-0000-0000-0000-000000000002/7floor.png",
+    "name": "7floor.png",
+    "file_type": "image"
+  },
+  "welcome": {
+    "key": "attaches/files/demo-bucket/00000000-0000-0000-0000-000000000003/welcome.pdf",
+    "name": "welcome.pdf",
+    "file_type": "file"
+  }
+}
